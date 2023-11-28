@@ -58,6 +58,7 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     </div>
     <!-- App -->
       <p><strong>App</strong></p>
@@ -70,6 +71,13 @@
     <div>
         <img src="https://img.shields.io/badge/Linux device driver-00CCBC?style=for-the-badge&logo=devicedriver&logoColor=white">
         <img src="https://img.shields.io/badge/Yocto-FFE01A?style=for-the-badge&logo=yocto&logoColor=white">
+    </div>
+    <!-- IDE -->
+    <p><strong>IDE</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
     </div>
   <!-- Others -->
     <p><strong>Others</strong></p>
